@@ -1,5 +1,7 @@
 # RD-Curve-Figure
-基于
+分别基于Matlab和Python实现率失真曲线的绘制
+
+图中的一条曲线基于一组包含PSNR和码率的数据，笔者用的都是四个点，画出来会好看些
 # Matlab
 - 效果图
 ![image](https://github.com/Kobaayyy/RD-Curve-Figure/blob/master/20200119140956412.png)
